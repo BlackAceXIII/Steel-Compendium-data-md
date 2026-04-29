@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d9987de67c94f12",
+        "id": "63fd6d7d19005b07",
         "type": "tabs",
         "children": [
           {
-            "id": "a8d40aefa8f09c10",
+            "id": "9314926fdea7ef19",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conduit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,6 +177,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a8d40aefa8f09c10",
-  "lastOpenFiles": []
+  "active": "9314926fdea7ef19",
+  "lastOpenFiles": [
+    "Rules/Classes/_Index.md",
+    "Rules/Features/Censor/Index.md",
+    "Bestiary/Monsters/Retainers/_Index.md",
+    "Rules/Features/Shadow/Index.md",
+    "Rules/Abilities/Fury/6th-Level Features/Death Strike.md"
+  ]
 }
