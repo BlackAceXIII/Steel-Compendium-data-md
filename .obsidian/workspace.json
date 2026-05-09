@@ -4,17 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "63fd6d7d19005b07",
+        "id": "39aadddf5717898a",
         "type": "tabs",
         "children": [
           {
-            "id": "9314926fdea7ef19",
+            "id": "aa040c8666fba306",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Personal Campaign Notes/Locations/Bloodguard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bloodguard"
+            }
+          },
+          {
+            "id": "56ba78a979adf1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Campaign Notes/Factions/Winter's Court.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Winter's Court"
+            }
+          },
+          {
+            "id": "f9266da58c9df084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Campaign Notes/Factions/Blackheart's Chosen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blackheart's Chosen"
             }
           }
         ]
@@ -49,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conduit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal Campaign Notes/Locations/Bloodguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Bloodguard"
             }
           },
           {
@@ -163,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,15 +205,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9314926fdea7ef19",
+  "active": "aa040c8666fba306",
   "lastOpenFiles": [
-    "Rules/Classes/_Index.md",
-    "Rules/Features/Censor/Index.md",
-    "Bestiary/Monsters/Retainers/_Index.md",
-    "Rules/Features/Shadow/Index.md",
-    "Rules/Abilities/Fury/6th-Level Features/Death Strike.md"
+    "Personal Campaign Notes/Campaign Notes Overview.md",
+    "Personal Campaign Notes/world-map-Greek-Campaign.png",
+    "Personal Campaign Notes/Party Composition.md",
+    "Personal Campaign Notes/Locations/Heliopolis.md",
+    "Personal Campaign Notes/Factions/Winter's Court.md",
+    "Personal Campaign Notes/Factions/Evil Cult.md",
+    "Personal Campaign Notes/Factions/Orvar, Hel's Arrow.md",
+    "Personal Campaign Notes/Locations/Bloodguard.md",
+    "Personal Campaign Notes/NPCs/Kimon.md",
+    "Personal Campaign Notes/NPCs/Queen Adora.md",
+    "Personal Campaign Notes/NPCs/Witch Eclipsia.md",
+    "Personal Campaign Notes/NPCs/Cladius the Merchant.md",
+    "Personal Campaign Notes/NPCs/Jurard the Ex-Hunter.md",
+    "Personal Campaign Notes/Party/Testicles.md",
+    "Personal Campaign Notes/Party/Romulus.md",
+    "Personal Campaign Notes/Party/Lukos.md",
+    "Personal Campaign Notes/Party/Edgar Varsson.md",
+    "Personal Campaign Notes/Factions/Blackheart's Chosen.md",
+    "Personal Campaign Notes/Factions/Werewolves Plot.md",
+    "Personal Campaign Notes/Factions/Monster Plot.md",
+    "Personal Campaign Notes/Party/Four-Skein.md",
+    "Personal Campaign Notes/Party/Ezra Cornel.md",
+    "Rules/Ancestries/Human.md",
+    "Rules/Abilities/Conduit/1st-Level Features/Drain.md",
+    "Rules/Abilities/Fury/2nd-Level Features/Death Death.md",
+    "Rules/Classes By Level/Elementalist/6th Level Features.md",
+    "Personal Campaign Notes/Locations",
+    "Personal Campaign Notes/NPCs",
+    "Personal Campaign Notes/Factions",
+    "Personal Campaign Notes/Party",
+    "Personal Campaign Notes"
   ]
 }

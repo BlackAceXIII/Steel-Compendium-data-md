@@ -1,0 +1,28 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "city": 12,
+    "fey": 7,
+    "leader": 10,
+    "location": 4,
+    "necromancer": 6,
+    "npc": 2,
+    "pc": 1,
+    "rip": 9,
+    "town": 11,
+    "vengeancemark": 13,
+    "villain": 5,
+    "werewolf": 8
+  },
+  "tagColors": {},
+  "_version": 4
+}
