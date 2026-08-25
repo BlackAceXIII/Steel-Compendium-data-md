@@ -1,7 +1,0 @@
-#NPC #RIP
-- From the city of [[Bloodguard]]
-- On edge
-- Lingering injuries
-- Worships Artemis
-- [[Human]]
-- Dead

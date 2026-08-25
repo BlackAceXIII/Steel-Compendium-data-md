@@ -1,7 +1,0 @@
-#NPC #Villain #Leader 
-- Suspected of [[Werewolves Plot]]
-- Lives in Mountains
-- Turns people into monsters
-- Wields strange magics
-- Daughter of Circe, Granddaughter of Helios
-- Lives in Mountains

@@ -1,0 +1,63 @@
+Villains who got captured by evil-er aliens
+#### Initial List
+- Conduit: 
+	- Kami/Supreme Kai style, Devil ancestry with Creation Domain and one other. Not actually a villain, just a hero who survived by chance of not being in the wrong place at the wrong time.
+	- Dragon Priest, Dragon Knight ancestry with two of the following three domains: Nature, Sun, Storm. He worships an elemental dragon god of calamity and chaos. He was captured when attempting to summon a herald of the dragon god into the world to fight the aliens.
+- Talent: a commander of a military group, like Big Boss or Cobra Commander, who got captured when he went to rescue his soldiers from one of his basses that was under attack due to being unaware of a trap, like the events of MGS Ground Zero. Alternatively, more like Palpatine or Count Dooku.
+- Troubadour: evil genie, like Disney's Jafar, who got trapped in a sarcophagus. Vampire Player found him and modified his prison to work more like a suit, like NRG from Ben 10 (use Dwarf stats), so the genie helped the Vampire. Eventually, near the end of the Vampire's war against his enemies, the Genie was defeated and dropped into a river and eventually ended up at the bottom of some lake until the evil aliens found and captured him.
+	- Alternatively Memonek because they are extra light weight so would fit an entity made of air, or one of the flying ancestries.
+- Necromancer or Conduit: Lehparsi the devil. Serves a different alien entity and does not want the world conquered by a different faction.
+#### New List
+- Conduit inspired by Kami and Supreme Kai from DragonBall (only one in the list who isn't a villain). 
+	- Domains options: Creation, Death, Knowledge, Life, Protection 
+	- Ancestry: Devil
+	- Complication: ???
+	- Perks and Career: ??? and ???
+- Conduit inspired by Beerus from DragonBall and Apocalypse. 
+	- Domains options: Death, Fate, Storm, Sun, War, Creation
+	- Ancestry: Revenant or Human or Memonek
+	- Complication: ???
+	- Perks and Career: ??? and ???
+- Conduit that gains power from a Dragon/Elemental God who wants to spread Chaos and change.  
+	- Domains options: Storm, Sun, or Nature
+	- Ancestry: Dragon Knight or High Elf
+	- Complication: Lost in Time
+	- Perks and Career: ??? and ???
+- Troubadour inspired by djinns and Disney's version of Jafar, but leaning more on the mythological side of being a powerful sorcerer rather than the "forced to serve whoever holds the vessel". 
+	- Subclass: Auteur
+	- Ancestry: Dwarf, Memonek, or Solar (homebrew)
+	- Complication: IDK
+	- Perks and Career: Arcane Trick and ???
+- Talent that is a secret commander of militia, inspired by Big Boss, Cobra Commander, and Palpatine / Darth Sidious.
+	- Subclass: Telekinesis
+	- Ancestry: Any
+	- Complication: IDK
+	- Perks and Career: ??? and ???
+- Shadow that is a secret commander of militia, inspired by Big Boss, Cobra Commander, and Palpatine / Darth Sidious.
+	- Subclass: Black Ash
+	- Kit: Spellsword
+	- Ancestry: Any
+	- Complication: IDK
+	- Perks and Career: ??? and ???
+- Shadow that is a secret commander of militia, inspired by Big Boss, Cobra Commander, and Palpatine / Darth Sidious.
+	- Subclass: Caustic Alchemy
+	- Kit: Arcane Archer
+	- Ancestry: Any
+	- Complication: IDK
+	- Perks and Career: ??? and ???
+- Shadow that is a secret commander of militia, inspired by Big Boss, Cobra Commander, and Palpatine / Darth Sidious.
+	- Subclass: Harlequin Mask
+	- Kit: Shining Armor
+	- Ancestry: Any
+	- Complication: IDK
+	- Perks and Career: ??? and ???
+- Elementalist inspired by Kuvira I guess???
+	- Subclass: Earth
+	- Ancestry: Any
+	- Complication: IDK
+	- Perks and Career: ??? and ???
+- Elementalist that is inspired by Skeletor and Hubert (FE 3 Houses)
+	- Subclass: Void
+	- Ancestry: Any
+	- Complication: IDK
+	- Perks and Career: ??? and ???

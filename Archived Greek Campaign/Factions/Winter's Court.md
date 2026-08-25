@@ -1,0 +1,12 @@
+---
+tags:
+  - Fey
+  - Villain
+  - Faction
+---
+- Fighting [[Evil Cult]] in [[Lesbos]]
+- Has this lord that creates plants and butterflies where he walks
+- Looking for mercenaries and recruits
+- Transporting cages to [[Athens]]
+- Involved in the new [[War]]
+- Claims hierarchy in the realm will change forever

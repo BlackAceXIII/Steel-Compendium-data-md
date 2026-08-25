@@ -1,85 +1,36 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Rules/Features/Fury  ",
+      "query": "tag:#NPC  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:Rules/Features/Conduit  ",
+      "query": "tag:#Plot  ",
       "color": {
         "a": 1,
-        "rgb": 16755200
+        "rgb": 11657298
       }
     },
     {
-      "query": "path:Rules/Features/Censor  ",
+      "query": "path:Steel-Compendium-data-md  ",
       "color": {
         "a": 1,
-        "rgb": 11206400
-      }
-    },
-    {
-      "query": "path:Rules/Features/Elementalist  ",
-      "color": {
-        "a": 1,
-        "rgb": 65280
-      }
-    },
-    {
-      "query": "path:Rules/Features/Talent  ",
-      "color": {
-        "a": 1,
-        "rgb": 65450
-      }
-    },
-    {
-      "query": "path:Rules/Features/Null  ",
-      "color": {
-        "a": 1,
-        "rgb": 43775
-      }
-    },
-    {
-      "query": "path:Rules/Features/Shadow  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "path:Rules/Features/Tactician  ",
-      "color": {
-        "a": 1,
-        "rgb": 11141375
-      }
-    },
-    {
-      "query": "path:Rules/Features/Troubadour  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711850
-      }
-    },
-    {
-      "query": "path:\"Personal Campaign Notes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 23505
+        "rgb": 0
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -88,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8854988635255217,
-  "close": false
+  "scale": 0.13873225151875415,
+  "close": true
 }

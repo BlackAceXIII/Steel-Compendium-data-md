@@ -1,0 +1,31 @@
+---
+tags:
+  - Plot
+---
+
+1. **STORY SET UP** Fantasy setting where mindflayers/aliens invaded. Setting: The world of **[[Thera]]** was sort of a generic fantasy setting (for simplicity, it used the same geography as Earth). Different nations had their own adventure guilds with adventurers ranking from D-rank to S-rank. D-rank did quests such as gather herbs, clear local goblin camps, or do smaller dungeon dives. Meanwhile S-rank adventurers would fight undead armies, demon lords, and stop evil plans to destroy Thera. The most renown group was a band of S-rank heroes called _[[Tiger's Quill]]_ with their leader [[Dracolus]] (High Elf Magus that could control dragons) and second in command [[Akashi]] (Isekai Human Fighter with Divine Armor that could transform into different forms). The world also had its fair assortment of villains including assassin guilds, liches, and demon lords. Among the villains, the Death Knight **[[Gorevail the Death Knight|Gorevail]]** is the most feared. A master of both martial prowess and dark magic, he has often had his plans foiled by [[Tiger's Quill]]. It is unknown how old he is or if he's even a living entity, but he's known to leave ruin in his wake whenever he leaves his castle.
+    
+2. _The First Rain_ One day, the skies around the world were suddenly flooded with Time Raider spaceships, and the capitals of nations were attacked. Anyone able bodied and willing were drafted to help in the battle against the invasion (armies and adventurers alike). The war lasted around a year and a half, with Thera finally bringing the battle to a stand still, but there were many losses in the early days. The most notable was the death of [[Dracolus]] and destruction of the Elven nation. Eventually the war was interrupted by the arrival of a third party.
+3. _Peace from Above_ The third party was a different species that called themselves Astral Elves. They claimed to be descendents of Thera from back when Thera had two moons. Their ancestors fled the planet using tech since they believed the world was ending and were surprised to see that Thera survived but also has civilizations again. They joined the fight against the Time Raiders and helped chase them off. After that, they worked with the nations to rebuild the damages. After the alliance, there was an announcement that to show their loyalty to Thera, they would have their princess wed Akashi (current leader of Tiger's Quill) and welcome the world to their Alliance. On the day of the wedding, as the heroes of the war were celebrated and the wedding ceremony began, the Princess suddenly shot Akashi with a strange weapon that appeared to vaporize him, then the Astral Elves opened fire on the gathered adventurers as the Time Raider ships returned to provide reinforcements to the Astral Elves. With this, Thera's greatest line of defense crumbled. The [[Astral Elves]] revealed themselves and the [[Time Raiders]] to be both allies of their leader, the [[Overmind]], and claimed Thera as property of the [[Overmind]].
+    
+4. _Aftermath and Today_ With the main defense destroyed, most of the nations crumbled quickly under the [[Overmind]]'s army. Rebellion was met with swift action and examples were made. Now the [[Overmind]]'s Army patrols Thera taking away people for studies and experimentation. Commonfolk are turned into their War Dogs (warped monstrosities that are shipped to other planets for battle), meanwhile "Specials" (anyone with a high potential) are being taken away for studying and experiments. The various Assassins guilds, liches, and demon lords are still fighting against the [[Overmind]], but it is a losing battle. Your character had managed avoiding capture all this time, but recently, ran out of luck and was captured. Your character counts as "Special" so they have been collared with a life draining collar, and will start the game mid transport (imagine Skyrim).
+5. **Character creation and stuff** The game story seems to welcome both hero and villain ideas, but less evil solo villains and more like small time villains. Your characters understand that the [[Overmind]] is the greater threat and your days of villainy are numbered as long as the [[Overmind]] remains in control. As part of your backstory, feel free to come up with what your character has done in the past few years leading up to the capture.
+6. 1. So as part of the additional info: The alien invaders call their homeworld [[V'So]] and themselves the [[V'Sori]]
+    
+7. When the Specials are captured, the [[V'Sori]] place a collar that disables powers and begins draining energy from Specials to make them incredibly weak and easier to contain. Imagine a commoner statblock with 8hp when you have the collar on
+8. 1. Rumor has it that [[Gorevail the Death Knight]] is trying to lead a resistance against the [[V'Sori]] but it's mostly rumors until now. According to the book, [[Gorevail the Death Knight|Gorevail]] knows he needs strong individuals to win the war, ones who are rutheless and cunning; but, he also knows he needs these to be individuals who are able and willing to work with each other and can put their differences aside to save Thera.
+    
+9. Also for your characters:
+    
+    1. Were they famous?
+    2. What was their plan before the [[V'Sori]] invasion?
+    3. Who or what stopped them before?
+    4. How were they captured?
+    5. Their thoughts on the invasion's early years?
+10. Also I guess if it helps, here's a summary of the events leading up to session 1: **pre-war:** what was the character up to? 
+	1. **year 1a:** Invasion begins, major castles struck. 
+	2. **year 1b:** Elves homeland and [[Dracolus]] are wiped out. 
+	3. **year 2a:** [[Astral Elves]] arrive and push back the Time Raiders, peace began 
+	4. **year 2b:** Astral Elves betray the people of Thera, Akashi is wiped out. 
+	5. **year 3a:** Invaders claim rule of the planet in the name of the [[V'Sori]] Empire, all major Theran armies are destroyed, only small rebel forces remain. 
+	6. **year 3b:** your character was captured by the [[V'Sori]] and chained in a strange collar that turned you frail. You will be executed and dissected shortly.

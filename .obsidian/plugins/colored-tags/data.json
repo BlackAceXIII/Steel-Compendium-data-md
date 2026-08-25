@@ -1,22 +1,28 @@
 {
   "palette": {
     "seed": 0,
-    "selected": "adaptive-soft",
+    "selected": "adaptive-bright",
     "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
   },
   "mixColors": true,
   "transition": true,
   "accessibility": {
-    "highTextContrast": false
+    "highTextContrast": true
   },
   "knownTags": {
     "city": 12,
+    "faction": 15,
     "fey": 7,
+    "hero": 20,
+    "item": 18,
     "leader": 10,
     "location": 4,
     "necromancer": 6,
+    "note": 16,
     "npc": 2,
     "pc": 1,
+    "plot": 19,
+    "retainer": 17,
     "rip": 9,
     "town": 11,
     "vengeancemark": 13,
